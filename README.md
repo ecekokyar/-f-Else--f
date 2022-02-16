@@ -1,2 +1,2 @@
-# -f-Else--f
+# if-Else-if
 If-ElseIf-Ternary-If Ödevi
